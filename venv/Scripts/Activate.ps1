@@ -27,14 +27,14 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\student\PycharmProjects\work\venv3"
+$env:VIRTUAL_ENV="D:\py_L\venv"
 
 # Set the prompt to include the env name
 # Make sure _OLD_VIRTUAL_PROMPT is global
 function global:_OLD_VIRTUAL_PROMPT {""}
 copy-item function:prompt function:_OLD_VIRTUAL_PROMPT
 function global:prompt {
-    Write-Host -NoNewline -ForegroundColor Green '(venv3) '
+    Write-Host -NoNewline -ForegroundColor Green '(venv) '
     _OLD_VIRTUAL_PROMPT
 }
 

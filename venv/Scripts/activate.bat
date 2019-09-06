@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\student\PycharmProjects\work\venv3"
+set "VIRTUAL_ENV=D:\py_L\venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
@@ -14,7 +14,7 @@ if defined _OLD_VIRTUAL_PYTHONHOME (
 )
 
 set "_OLD_VIRTUAL_PROMPT=%PROMPT%"
-set "PROMPT=(venv3) %PROMPT%"
+set "PROMPT=(venv) %PROMPT%"
 
 if defined PYTHONHOME (
     set "_OLD_VIRTUAL_PYTHONHOME=%PYTHONHOME%"
