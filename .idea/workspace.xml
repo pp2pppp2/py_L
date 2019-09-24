@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0550ecc9-70f7-4c7a-bdef-8bb0b61625bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19년 9월/0918/전자카트/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0918/전자카트/전자카트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0918/최소합/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0918/최소합/최소합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0919/분할 정복 이론/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0919/분할 정복 이론/거듭제곱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0919/분할 정복 이론/정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0919/분할 정복 이론/퀵정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0920/병합 정렬/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0920/병합 정렬/병합 정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0920/퀵 정렬/퀵 정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19년 9월/0920/퀵 정렬/퀵 정렬.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0920/장훈이/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0920/장훈이/장훈이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0923/최소 신장 트리/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0923/최소 신장 트리/최소 신장 트리(Kruskal).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수/가능점수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/그래프의 기본과 탐색/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/그래프의 기본과 탐색/그래프의 기본과 탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/연산/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/연산/연산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/최소 이동거리/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/최소 이동거리/최소 이동거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/최소비용/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19년 9월/0924/최소비용/최소비용.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19년 8월/day_10/토너먼트 카드게임/토너먼트 카드게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/19년 8월/day_10/토너먼트 카드게임/토너먼트 카드게임.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py" beforeDir="false" afterPath="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,37 +67,38 @@
     <session id="-1799659995">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.2" value="5" />
-          <entry key="project.open.time.3" value="9" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.3" value="11" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="106" />
-          <entry key="txt" value="48" />
+          <entry key="py" value="123" />
+          <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="48" />
-          <entry key="Python" value="106" />
+          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="Python" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="7" />
-          <entry key="py" value="37949" />
-          <entry key="txt" value="136" />
+          <entry key="dummy" value="32" />
+          <entry key="py" value="46972" />
+          <entry key="txt" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="143" />
-          <entry key="Python" value="37949" />
+          <entry key="PLAIN_TEXT" value="173" />
+          <entry key="Python" value="46972" />
         </counts>
       </usages-collector>
     </session>
@@ -103,53 +106,75 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19년 9월/0919/분할 정복 이론/정렬.py">
+        <entry file="file://$PROJECT_DIR$/19년 9월/0924/최소 이동거리/최소 이동거리.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+            <state relative-caret-position="399">
+              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19년 9월/0920/병합 정렬/병합 정렬.py">
+        <entry file="file://$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수/가능점수.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="361">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <marker date="1569309510416" expanded="true" signature="97:243" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19년 9월/0920/퀵 정렬/퀵 정렬.py">
+        <entry file="file://$PROJECT_DIR$/19년 9월/0924/최소비용/최소비용.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="532">
+              <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/19년 9월/0924/연산/연산.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding>
+                <marker date="1569305216526" expanded="true" signature="583:584" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/19년 9월/0920/전기버스2/전기버스2.py">
+        <entry file="file://$PROJECT_DIR$/19년 9월/0924/그래프의 기본과 탐색/그래프의 기본과 탐색.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <marker date="1569291087615" expanded="true" signature="57:116" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19년 9월/0920/이진탐색/이진탐색.py">
+        <entry file="file://$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" />
+            <state relative-caret-position="76">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19년 9월/0920/퀵 정렬/퀵 정렬.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/19년 9월/0924/최소 이동거리/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1007">
+              <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -164,6 +189,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>172</find>
+      <find>0</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\student\PycharmProjects\work\day_07</dir>
@@ -175,19 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/190905/조합/조합.py" />
-        <option value="$PROJECT_DIR$/190905/숫자 배열 회전/숫자 배열 회전.py" />
-        <option value="$PROJECT_DIR$/190904/2048/2048.py" />
-        <option value="$PROJECT_DIR$/190905/농작물수확/농작물 수확.py" />
-        <option value="$PROJECT_DIR$/190905/스도쿠 검증/스도쿠 검증.py" />
-        <option value="$PROJECT_DIR$/190906/ladder2/input.txt" />
-        <option value="$PROJECT_DIR$/190906/ladder2/ladder2.py" />
-        <option value="$PROJECT_DIR$/190906/격자판의 숫자/격자판의 숫자.py" />
-        <option value="$PROJECT_DIR$/190906/최적경로/최적경로.py" />
-        <option value="$PROJECT_DIR$/19년 9월/190906/최적경로/최적경로.py" />
-        <option value="$PROJECT_DIR$/19년 9월/0909/트리.py" />
-        <option value="$PROJECT_DIR$/19년 9월/0909/힙/힙.py" />
-        <option value="$PROJECT_DIR$/19년 9월/0909/중위순회/중위순회.py" />
         <option value="$PROJECT_DIR$/19년 9월/0909/공통조상/input.txt" />
         <option value="$PROJECT_DIR$/19년 9월/0909/공통조상/공통조상.py" />
         <option value="$PROJECT_DIR$/19년 9월/0910/subtree/subtree.py" />
@@ -211,7 +224,6 @@
         <option value="$PROJECT_DIR$/19년 9월/0917/순열생성/순열생성.py" />
         <option value="$PROJECT_DIR$/19년 9월/0917/순열생성/중복순열.py" />
         <option value="$PROJECT_DIR$/19년 9월/0917/순열생성/부분집합.py" />
-        <option value="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py" />
         <option value="$PROJECT_DIR$/19년 9월/0918/최소합.py" />
         <option value="$PROJECT_DIR$/19년 9월/0918/최소합/최소합.py" />
         <option value="$PROJECT_DIR$/19년 9월/0918/전자카트/전자카트.py" />
@@ -226,12 +238,26 @@
         <option value="$PROJECT_DIR$/19년 9월/0919/이진탐색/이진탐색.py" />
         <option value="$PROJECT_DIR$/19년 9월/0920/병합 정렬/병합 정렬.py" />
         <option value="$PROJECT_DIR$/19년 9월/0920/퀵 정렬/퀵 정렬.py" />
+        <option value="$PROJECT_DIR$/19년 9월/0920/장훈이/장훈이.py" />
+        <option value="$PROJECT_DIR$/19년 9월/0923/최소 신장 트리/KRUSKAL.py" />
+        <option value="$PROJECT_DIR$/19년 9월/0923/최소 신장 트리/최소 신장 트리.py" />
+        <option value="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py" />
+        <option value="$PROJECT_DIR$/19년 9월/0923/최소 신장 트리/최소 신장 트리(Kruskal).py" />
+        <option value="$PROJECT_DIR$/19년 9월/0924/그래프의 기본과 탐색/그래프의 기본과 탐색.py" />
+        <option value="$PROJECT_DIR$/19년 9월/0924/최소비용/input.txt" />
+        <option value="$PROJECT_DIR$/19년 9월/0924/최소비용/최소비용.py" />
+        <option value="$PROJECT_DIR$/19년 9월/0924/연산/input.txt" />
+        <option value="$PROJECT_DIR$/19년 9월/0924/연산/연산.py" />
+        <option value="$PROJECT_DIR$/19년 9월/0924/최소 이동거리/input.txt" />
+        <option value="$PROJECT_DIR$/19년 9월/0924/최소 이동거리/최소 이동거리.py" />
+        <option value="$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수/input.txt" />
+        <option value="$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수/가능점수.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="979" />
-    <option name="width" value="948" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -258,7 +284,14 @@
               <item name="py_L" type="b2602c69:ProjectViewProjectNode" />
               <item name="py_L" type="462c0819:PsiDirectoryNode" />
               <item name="19년 9월" type="462c0819:PsiDirectoryNode" />
-              <item name="0920" type="462c0819:PsiDirectoryNode" />
+              <item name="0924" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py_L" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py_L" type="462c0819:PsiDirectoryNode" />
+              <item name="19년 9월" type="462c0819:PsiDirectoryNode" />
+              <item name="0924" type="462c0819:PsiDirectoryNode" />
+              <item name="그래프의 기본과 탐색" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,19 +306,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\py_L\19년 9월\0920\병합 정렬" />
-      <recent name="D:\py_L\19년 9월\0920\퀵 정렬" />
-      <recent name="D:\py_L\19년 9월\0919\최소생산비용" />
-      <recent name="D:\py_L\19년 9월\0919\전기버스2" />
-      <recent name="D:\py_L\19년 9월\0919\이진탐색" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\py_L\19년 9월\0919\이진탐색" />
       <recent name="D:\py_L\19년 9월\0918\최소합" />
       <recent name="D:\py_L\19년 9월\0917\재귀 and 반복" />
       <recent name="D:\py_L\19년 9월\0916\암호코드 스캔" />
       <recent name="D:\py_L\19년 9월\0911\입출력" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\py_L\19년 9월\0924\가능점ㅈ수" />
+      <recent name="D:\py_L\19년 9월\0924\최소 이동거리" />
+      <recent name="D:\py_L\19년 9월\0924\최소비용" />
+      <recent name="D:\py_L\19년 9월\0924\그래프의 기본과 탐색" />
+      <recent name="D:\py_L\19년 9월\0924\연산" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -300,8 +333,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.전기버스2 (1)">
-    <configuration name="특별한 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.가능점수">
+    <configuration name="그래프의 기본과 탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,11 +342,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 8월/day_03/4.특별한 정렬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0924/그래프의 기본과 탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 8월/day_03/4.특별한 정렬/특별한 정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0924/그래프의 기본과 탐색/그래프의 기본과 탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +355,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="어디에 단어가" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="최소 이동거리" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,11 +363,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190904/어디에 단어가 들어갈 수 있을까" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0924/최소 이동거리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190904/어디에 단어가 들어갈 수 있을까/어디에 단어가.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0924/최소 이동거리/최소 이동거리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,7 +376,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="퀵정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="연산" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,11 +384,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0919/분할정복" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0924/연산" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0919/분할정복/퀵정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0924/연산/연산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,7 +397,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="전기버스2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="최소비용" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -372,11 +405,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0920/전기버스2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0924/최소비용" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0920/전기버스2/전기버스2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0924/최소비용/최소비용.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,7 +418,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="가능점수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -393,116 +426,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0919/이진탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0919/이진탐색/이진탐색.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="전기버스2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0919/전기버스2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0919/전기버스2/전기버스2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="최소생산비용" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0919/최소생산비용" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0919/최소생산비용/최소생산비용.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="입출력" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0911" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\py_L\19년 9월\0911\입출력\입출력.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="부분집합" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_09/부분집합" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_09/부분집합/부분집합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_09/순열" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_09/순열/순열.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수/가능점수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -524,6 +452,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_02/부분집합/부분집합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="동철이" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -574,48 +523,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="비트연산" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0911/비트연산" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0911/비트연산/비트연산.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="중복순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0917/순열생성" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0917/순열생성/중복순열.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="베이비진" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -650,6 +557,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0917/순열생성/순열생성.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="금속막대" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_03/5.금속막대" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_03/5.금속막대/금속막대.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -721,6 +649,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="동철이" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="중위순회" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -742,27 +691,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="금속막대" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_03/5.금속막대" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_03/5.금속막대/금속막대.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="트리" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -776,6 +704,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="D:\py_L\19년 9월\0909\트리\트리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="파리퇴치" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190903/파리퇴치" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190903/파리퇴치/파리퇴치.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0919/이진탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0919/이진탐색/이진탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -868,27 +838,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="파리퇴치" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190903/파리퇴치" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190903/파리퇴치/파리퇴치.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -923,6 +872,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\student\PycharmProjects\work\day_07\종이붙이기\종이붙이기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_08/미로" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_08/미로/미로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="비트연산" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0911/비트연산" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0911/비트연산/비트연산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -994,7 +985,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="동철이" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="장훈이" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1002,32 +993,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0920/장훈이" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="미로" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_08/미로" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_08/미로/미로.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0920/장훈이/장훈이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1057,20 +1027,104 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="입출력" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0911" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\py_L\19년 9월\0911\입출력\입출력.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="부분집합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_09/부분집합" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_09/부분집합/부분집합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_09/순열" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_09/순열/순열.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="중복순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19년 9월/0917/순열생성" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19년 9월/0917/순열생성/중복순열.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.퀵정렬" />
-      <item itemvalue="Python.이진탐색" />
-      <item itemvalue="Python.전기버스2" />
-      <item itemvalue="Python.최소생산비용" />
-      <item itemvalue="Python.전기버스2 (1)" />
+      <item itemvalue="Python.연산" />
+      <item itemvalue="Python.그래프의 기본과 탐색" />
+      <item itemvalue="Python.최소비용" />
+      <item itemvalue="Python.최소 이동거리" />
+      <item itemvalue="Python.가능점수" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.전기버스2 (1)" />
-        <item itemvalue="Python.이진탐색" />
-        <item itemvalue="Python.최소생산비용" />
-        <item itemvalue="Python.전기버스2" />
-        <item itemvalue="Python.퀵정렬" />
+        <item itemvalue="Python.가능점수" />
+        <item itemvalue="Python.최소 이동거리" />
+        <item itemvalue="Python.연산" />
+        <item itemvalue="Python.최소비용" />
+        <item itemvalue="Python.그래프의 기본과 탐색" />
       </list>
     </recent_temporary>
   </component>
@@ -1097,9 +1151,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="979" y="0" width="948" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18461539" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17948718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1189,6 +1243,11 @@
           <line>50</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1201,16 +1260,48 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="D" language="Python" />
+        <watch expression="uni" language="Python" />
+        <watch expression="tc" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>m</expression-string>
+        <expression-string>tc</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>data</expression-string>
+        <expression-string>uni</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>D</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i ** 2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mt * 100</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -1220,136 +1311,13 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>ret</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>cnt</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>g[nod[a]][0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>g</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>coh</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>b</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>a</expression-string>
+        <expression-string>cm</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/19년 9월/0917/baby-gin/베이비진.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0917/재귀 and 반복/선택정렬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0916/암호코드 스캔/암호코드 스캔.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0917/재귀 and 반복/합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0916/암호코드 스캔/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="103" column="26" lean-forward="true" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0918/최소합/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0918/전자카트/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0918/최소합/최소합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0918/전자카트/전자카트.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0919/분할 정복 이론/거듭제곱.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 8월/day_03/5.금속막대/금속막대.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 8월/day_03/3.이진탐색/이진탐색.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 8월/day_03/2.부분집합의 합/부분집합의 합.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 8월/day_01/전기버스/4831.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 8월/day_01/숫자 카드/4834.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 8월/day_01/구간 합/4835.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 8월/day_01/min max/4828.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/19년 8월/day_01/Flatten/Flatten.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1429,44 +1397,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0919/이진탐색/input.txt">
+    <entry file="file://$PROJECT_DIR$/19년 9월/0919/이진탐색/input.txt" />
+    <entry file="file://$PROJECT_DIR$/19년 9월/0919/전기버스2/input.txt" />
+    <entry file="file://$PROJECT_DIR$/19년 9월/0919/전기버스2/전기버스2.py" />
+    <entry file="file://$PROJECT_DIR$/19년 9월/0919/최소생산비용/input.txt" />
+    <entry file="file://$PROJECT_DIR$/19년 9월/0919/최소생산비용/최소생산비용.py" />
+    <entry file="file://$PROJECT_DIR$/19년 9월/0919/이진탐색/이진탐색.py" />
+    <entry file="file://$PROJECT_DIR$/19년 9월/0920/병합 정렬/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0919/전기버스2/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0919/전기버스2/전기버스2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0919/최소생산비용/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0919/최소생산비용/최소생산비용.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0919/이진탐색/이진탐색.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0919/분할 정복 이론/정렬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        <state relative-caret-position="76">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1475,15 +1415,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/19년 9월/0920/이진탐색/이진탐색.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
+        <state relative-caret-position="76">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0920/병합 정렬/input.txt">
+    <entry file="file://$PROJECT_DIR$/19년 9월/0920/최소생산비용/최소생산비용.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0920/전기버스2/전기버스2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="380">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0920/퀵 정렬/퀵 정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1494,17 +1444,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0920/퀵 정렬/퀵 정렬.py">
+    <entry file="file://$PROJECT_DIR$/19년 9월/0919/분할 정복 이론/정렬.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="425">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19년 9월/0920/전기버스2/전기버스2.py">
+    <entry file="file://$PROJECT_DIR$/19년 9월/0920/장훈이/장훈이.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="399">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0920/장훈이/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17499">
+          <caret line="921" column="36" selection-start-line="921" selection-start-column="36" selection-end-line="921" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0923/최소 신장 트리/최소 신장 트리.py" />
+    <entry file="file://$PROJECT_DIR$/19년 9월/0917/동철이 일 분배/동철이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0923/최소 신장 트리/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/그래프의 기본과 탐색/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/최소비용/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="130" column="11" selection-start-line="130" selection-start-column="11" selection-end-line="130" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/연산/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0923/최소 신장 트리/최소 신장 트리(Kruskal).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <marker date="1569286266825" expanded="true" signature="993:1053" ph="..." />
+            <marker date="1569286266825" expanded="true" signature="1063:1328" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0923/최소 신장 트리/최소 신장 트리(Prim).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/최소 이동거리/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/최소 이동거리/최소 이동거리.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/가능점ㅈ수/가능점수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <marker date="1569309510416" expanded="true" signature="97:243" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/최소비용/최소비용.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/연산/연산.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1569305216526" expanded="true" signature="583:584" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19년 9월/0924/그래프의 기본과 탐색/그래프의 기본과 탐색.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <marker date="1569291087615" expanded="true" signature="57:116" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
