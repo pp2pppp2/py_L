@@ -3,7 +3,7 @@ sys.stdin = open("input.txt")
 
 def d(n, k, dep):
     global ma, ret
-    if dep - 1== int(M):
+    if dep - 1 == int(M):
         return
     if RN == ma:
         return
